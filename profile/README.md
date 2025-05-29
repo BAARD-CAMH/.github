@@ -1,4 +1,4 @@
-# Biotype-assigned Augmentation Approach in Resistant (late-life) Depression (BAARD)
+# Biotype-assigned Augmentation Approach in Resistant Depression (BAARD)
 
 Welcome to the official GitHub organization for the **BAARD Project**
 
