@@ -20,4 +20,4 @@ The BAARD project is an international research initiative that leverages multi-m
 
 NIH Project number:  1UG3MH137353-01
 
-*Follow this organization to stay updated on publications, code releases, and tools
+*Follow this organization to stay updated on publications, code releases, and modelling tools.
