@@ -1,6 +1,6 @@
 # Biotype-assigned Augmentation Approach in Resistant Depression (BAARD)
 
-Welcome to the official GitHub organization for the **BAARD Project**
+Welcome to the official GitHub organization page for the **BAARD Project**
 
 
 ## Project Overview
@@ -15,7 +15,7 @@ The BAARD initiative seeks to develop a clinical decision support tool to enhanc
 ## Significance
 To achieve these goals, we will utilize comprehensive demographic, clinical, cognitive, genetic, proteomic, and neuroimaging data from approximately 700 participants. The development and testing of the BAARD tool aim to significantly improve remission rates and transform care delivery for this vulnerable population.
 
-##Collaborating Institutions
+## Collaborating Institutions
 The BAARD project is an international research initiative that leverages multi-modal data - encompassing clinical assessments, neuroimaging, biomarkers, and genomics - through the collaboration of leading institutions including Washington University, Columbia University, UCLA, University of Pittsburgh, and CAMH.
 
 NIH Project number:  1UG3MH137353-01
