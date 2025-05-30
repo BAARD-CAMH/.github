@@ -21,3 +21,20 @@ The BAARD project is an international research initiative that leverages multi-m
 NIH Project number:  1UG3MH137353-01
 
 *Follow this organization to stay updated on publications, code releases, and predictive modelling tools.
+
+## Dashboard Code Repository
+An interactive dashboard used to support decision making in the development and evaluation of the BAARD tool.
+
+🔗 https://github.com/BAARD-CAMH/dashboard
+
+## Data Analysis Code Repository
+All scripts and code utilized in the processing, harmonization, and analysis of multi-modal datasets for the BAARD project.
+
+🔗 https://github.com/BAARD-CAMH/data-analysis
+
+## Data Modelling Code Repository
+This repository contains scripts for implementing modelling approaches for the BAARD project.
+
+🔗 https://github.com/BAARD-CAMH/modelling
+
+
